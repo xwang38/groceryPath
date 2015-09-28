@@ -1,6 +1,16 @@
 README
 
-This program will calculate a shortest path after you indicate the location of needed grocery by clicking on anywhere but aisles on the map. Remember to click “done with choosing” after you input sufficient locations.
+Purpose of this program:
+Most of us have this experience: standing in a grocery store, we try to figure out a path to get every item listed on our shopping list. Even if you know well the location of products and isles, it is troublesome to compute such a path.
+My program is aiming at solving this problem. My program will automatically compute a path that enables people to get all items they need with the least detour.
+
+Input:
+User can click on anywhere but aisles on map to indicate location of grocery to be fetched;
+Remember to click on button "done with choosing" 
+
+Output:
+A path that need be followed, with instructions about where to stop to pick up which items
+
 
 Requirement:
 python 3
