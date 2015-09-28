@@ -19,7 +19,7 @@ python3 site-packages include matplotlib, mpl_toolkits.basemap, pillow, numpy
 Laugh the program:
 1. Download program
 2. go to groceryPath/
-3. command “python driver.py”
+3. command “python driver.py” or "python3 driver.py"
 
 Note:
 it has to be python version three 
