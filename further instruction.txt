@@ -10,7 +10,8 @@ user interface:
 5. No matter what items you buy, your path starts from entrance and end in cash register
 
 Interaction:
-Input: grocery list from customer inputOutput: a path that need be followed, with instructions about where to stop to pick up which items
+Input: grocery list from customer input
+Output: a path that need be followed, with instructions about where to stop to pick up which items
 
 instructions:
 1. click on the blue rectangle to indicate the location of grocery items that you need get
