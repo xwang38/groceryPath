@@ -1,7 +1,7 @@
 README
 
 Purpose of this program:
-Most of us have this experience: standing in a grocery store, we try to figure out a path to get every item listed on our shopping list. Even if you know well the location of products and isles, it is troublesome to compute such a path.
+Most of us have this experience: standing in a grocery store, we try to figure out a shortest path to get every item listed on our shopping list. Even if you know well the location of products and isles, it is troublesome to compute such a path.
 My program is aiming at solving this problem. My program will automatically compute a path that enables people to get all items they need with the least detour.
 
 Input:
